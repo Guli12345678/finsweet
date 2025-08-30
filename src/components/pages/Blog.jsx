@@ -4,7 +4,7 @@ const Blog = () => {
   return (
     <div>
       <div className="container">
-        <div className="text-center flex-col justify-center mb-15">
+        <div className="text-center flex-col justify-center mb-25">
           <h2 className=" text-center text-[48px] w-[830px] flex justify-self-center font-semibold ">
             A UX Case Study on Creating a Studious Environment for Students
           </h2>
